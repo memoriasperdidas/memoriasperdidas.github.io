@@ -1671,9 +1671,9 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/index_atlas_1.png?1698850255252", id:"index_atlas_1"},
-		{src:"sounds/explosionwav.mp3?1698850255485", id:"explosionwav"},
-		{src:"sounds/musicadeinterfazt.mp3?1698850255485", id:"musicadeinterfazt"}
+		{src:"images/index_atlas_1.png?1699319107307", id:"index_atlas_1"},
+		{src:"sounds/explosionwav.mp3?1699319107486", id:"explosionwav"},
+		{src:"sounds/musicadeinterfazt.mp3?1699319107486", id:"musicadeinterfazt"}
 	],
 	preloads: []
 };
